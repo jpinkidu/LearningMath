@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LearningMath</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_addition_magic">AdditionMagic</string>
+    <string name="title_activity_subtraction">Subtraction</string>
+    <string name="title_activity_multiplication_magic">MultiplicationMagic</string>
+    <string name="title_activity_division_magic">DivisionMagic</string>
+
+    <string name="trainingCenterTextView">Hey, Friend.</string>
+    <string name="training_center_label">Training Center</string>
+
+    <string name="main_addition_btn">Addition</string>
+    <string name="main_subtraction_btn">Subtraction</string>
+    <string name="main_question_btn">Division</string>
+    <string name="main_multiplication_btn">Multiplication</string>
+    <string name="addition_question_label">Question</string>
+    <string name="question_label">Question</string>
+    <string name="question_count_label">0</string>
+
+
+    <string name="plus_operation">+</string>
+    <string name="operation_div">/</string>
+    <string name="operation_mul">*</string>
+    <string name="operator_minus">-</string>
+    <string name="equal_label">= ?</string>
+
+    <string name="new_task_btn">New Task</string>
+    <string name="check_result_btn">Check Result</string>
+    <string name="key_name">name</string>
+    <string name="add_name">add</string>
+    <string name="title_activity_test_add_magic">TestAddMagic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test_result">TestResult</string>
+</resources>
